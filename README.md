@@ -1,3 +1,3 @@
-<img src="ola.png" alt="Booking Icon" width="40">
+<img src="Images/ola.png" alt="Booking Icon" width="40">
 Booking Analysis
 
