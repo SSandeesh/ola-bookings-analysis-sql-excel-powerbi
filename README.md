@@ -33,14 +33,16 @@ The goal of this project is to:
 ---
 
 ## 📂 Project Structure
-Ride-Bookings-Analysis/
-│
-├── Dataset/ # Ola bookings dataset
-├── Images/ # Dashboard screenshots 
-├── PowerBI Dashboard/ # Power BI .pbix file
-├── SQL Queries/ # SQL scripts for analysis
-└── README.md # Project documentation
 
+```plaintext
+Ola-Bookings-Analysis/
+│
+├── Dataset/                # Ola bookings dataset
+├── Images/                 # Dashboard screenshots
+├── PowerBI Dashboard/      # Power BI .pbix file
+├── SQL Queries/            # SQL scripts for analysis
+└── README.md               # Project documentation
+```
 ---
 ## 📷 Dashboard Preview
 
@@ -49,7 +51,7 @@ Ride-Bookings-Analysis/
 ---
 ## 📈 Insights Derived
 - Total Successful Bookings and Value
-- Sucessful Booking value and Average distance travelled per vehicle type
+- Total Booking value and Average distance travelled per vehicle type
 - Revenue distribution across different payment methods
 - Rides cancellation breakdown
 - Customer and Drivers ratings
